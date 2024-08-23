@@ -7,3 +7,11 @@ hi{
 body{
 	 background-image: url("paper.gif");
 }
+
+.border1 {
+	border: 2px, solid, black;
+}
+
+#txtColor {
+	color: rgb(100,0,0);
+}
