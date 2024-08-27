@@ -1,17 +1,21 @@
-hi{
-	color:purple
+h1{
+	color:black;
 	text-align: center;
 
 }
 
 body{
-	 background-image: url("paper.gif");
+	 background:rgb(186, 235, 255)
 }
 
-.border1 {
-	border: 2px, solid, black;
+P {
+	text-align: center;
+	border: 5px, solid, black;
+	font-family: verdana;
+	font-size: 20px;
 }
 
-#txtColor {
-	color: rgb(100,0,0);
+Leonardo {
+	font-size:30px
+color: black;
 }
